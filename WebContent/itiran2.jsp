@@ -242,7 +242,6 @@
 					session.removeAttribute("incorrectTo");	
 					
 				
-					/* out.println(SQL);  */
 					rs = stmt.executeQuery(SQL);
 					while (rs.next()) {
 						//「修正」が押されたときにデータを詳細画面に移行するためにArrayListに保存
