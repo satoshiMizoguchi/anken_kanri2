@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+.window {
+	width: 1280px;
+	height: 768px;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+
+
+
+.btn_right {
+	text-align: right;
+}
+
+.border_bottom {
+	border-bottom: 1px solid black;
+}
+
+.margin_r {
+	margin-right: 30px;
+}
+
+.margin_l {
+	margin-left: 30px;
+}
+
+.margin_2l{
+	margin-left: 60px;
+}
+
+.margin_t {
+	margin-top: 30px;
+}
+
+.margin_b {
+	margin-bottom: 30px;
+}
+
+#table_head {
+	border-bottom: 1px solid black;
+}
+
+.btns {
+	text-align: center;
+}
+
+.button {
+	border: none;
+}
+
+
+
